@@ -9,10 +9,10 @@
 // }
 
 body {
-  font-family: 'Gabriela', serif;
+  font-family: "Gabriela", serif;
   background: #ffffff;
 }
-.wrapper { 
+.wrapper {
   height: 100%;
 }
 .container {
@@ -21,6 +21,9 @@ body {
   padding: 0 $gutter;
 }
 
-.uptext{
+.uptext {
   text-transform: uppercase;
+}
+.flex {
+  display: flex;
 }
